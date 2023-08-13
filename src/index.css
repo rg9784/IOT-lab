@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{ 
+    background-color: white;
+}
+
+#my-div{
+    background-image: url('C:\\Users\\aravi\\inhouse_project\\frontend\\src\\assets\\iot_lab.jpg');
+    
+}
+
+.icons {
+    display: inline-block;
+    align-self: center;
+  }
+  
